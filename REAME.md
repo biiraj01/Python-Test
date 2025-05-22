@@ -1,0 +1,1 @@
+Today, I setup python, jupyter notebook and added libraries: numpy,  pandas and matplotlib.
